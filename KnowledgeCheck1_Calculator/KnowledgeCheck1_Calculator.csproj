@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\prept\Desktop\Git_projects\TB_C_Sharp\Calculator_TB\Calculator.cs" Link="Calculator.cs" />
+  </ItemGroup>
+
 </Project>
